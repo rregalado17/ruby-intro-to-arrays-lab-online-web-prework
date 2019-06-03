@@ -23,3 +23,39 @@ def last_element(my_last_element)
   my_third_element[-1]
 end
 
+@south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+
+def first_element_with_array_methods(first_coutry)
+  first_coutry = @south_east_asia
+  first_coutry.first 
+end
+
+def last_element_with_array_methods(last_country)
+  last_country = @south_east_asia
+  last_country.last 
+end
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
