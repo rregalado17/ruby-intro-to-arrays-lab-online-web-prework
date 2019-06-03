@@ -20,7 +20,7 @@ end
 
 def last_element(my_last_element)
   my_last_element = @taylor_swift
-  my_third_element[-1]
+  my_last_element[-1]
 end
 
 @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
